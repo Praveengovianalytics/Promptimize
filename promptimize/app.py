@@ -63,5 +63,3 @@ iface = gr.Interface(
     title="Promptimize 🚀",
     description="Optimize your prompts easily using DSPy backend. Upload Excel (questions & answers), and get optimized prompts."
 )
-
-iface.launch()
