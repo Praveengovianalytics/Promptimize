@@ -1,5 +1,5 @@
 [project]
-name = "promptimize"
+name = "prompt-imize"
 version = "0.1.0"
 description = "Promptimize help you to get best prompt for GenAI model execution"
 authors = [
@@ -7,7 +7,7 @@ authors = [
 ]
 license = {text = "Apache Licence 2"}
 readme = "README.md"
-packages = [{ include = "promptimize" }]
+packages = [{ include = "prompt-imize" }]
 requires-python = ">=3.11,<3.14"
 dependencies = [
     "dspy (>=2.6.27,<3.0.0)",
